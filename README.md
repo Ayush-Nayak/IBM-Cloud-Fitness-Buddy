@@ -45,39 +45,39 @@ Start a conversation: Ask fitness questions, request meal ideas, or motivation.
 
 4) “Recommend exercises for beginners.”
 
-🖼️ Screenshots
+# 🖼️ Screenshots
 
-🔹 Setting up..
+# 🔹 Setting up..
 
 <img width="929" height="734" alt="Screenshot 2025-07-31 180353" src="https://github.com/user-attachments/assets/02919562-e9d6-4259-b393-2618c49e5876" />
 
-🔹 Quick Start Questions...
+# 🔹 Quick Start Questions...
 
 <img width="874" height="503" alt="image" src="https://github.com/user-attachments/assets/8cab3b2d-466c-4286-b9c0-623eb7e2535c" />
 
-🔹 Tools used & Testing..
+# 🔹 Tools used & Testing..
 
 <img width="890" height="671" alt="image" src="https://github.com/user-attachments/assets/89cf91b6-a154-4b91-a48d-3586c52ee409" />
 
-🔹 Deployment & Preview...
+# 🔹 Deployment & Preview...
 
 <img width="1919" height="907" alt="Screenshot 2025-07-30 213554" src="https://github.com/user-attachments/assets/10b6ee95-e898-486c-8b78-899999c2019e" />
 
-🔹 API References after Deployment..
+# 🔹 API References after Deployment..
 
 <img width="1919" height="762" alt="image" src="https://github.com/user-attachments/assets/dacb7cf8-3dfa-4b48-9b91-089da887120b" />
 
-🔹 Resources List..
+# 🔹Resources List..
 
 <img width="1910" height="745" alt="image" src="https://github.com/user-attachments/assets/e78eeb99-50df-4eab-809c-ed13817fcbb2" />
 
 # ☁️ IBM Cloud Services Used
 # Watsonx.ai Studio
- . IBM Granite Model
- . Watsonx Vector Index
- . IBM Cloud Lite Account
- . IBM Cloud IAM
- . IBM Cloud Object Storage
+# . IBM Granite Model
+# . Watsonx Vector Index
+# . IBM Cloud Lite Account
+# . IBM Cloud IAM
+# . IBM Cloud Object Storage
 
 # How It Works
 Built in IBM watsonx.ai Prompt Lab: Uses prompt templates to define bot personality and answer style.
