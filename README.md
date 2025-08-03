@@ -1,5 +1,8 @@
 # Fitness Buddy – AI Fitness Companion
 
+![FitnessBud](https://github.com/user-attachments/assets/944d2d6c-98dd-46e2-b7fc-7e754643e327)
+
+
 # Overview
 Fitness Buddy is an AI-powered chatbot agent designed to help users stay motivated, discover personalised workouts, receive healthy meal ideas, and get fitness tips in real time—all for free—deployable on IBM Cloud Lite using watsonx.ai Prompt Lab and foundation models.
 
@@ -70,11 +73,16 @@ Start a conversation: Ask fitness questions, request meal ideas, or motivation.
 
 # ☁️ IBM Cloud Services Used
 # Watsonx.ai Studio
-# . IBM Granite Model
-# . Watsonx Vector Index
-# . IBM Cloud Lite Account
-# . IBM Cloud IAM
-# . IBM Cloud Object Storage
+ 
+ . IBM Granite Model
+
+ . Watsonx Vector Index
+ 
+ . IBM Cloud Lite Account
+ 
+ . IBM Cloud IAM
+ 
+ . IBM Cloud Object Storage
 
 # How It Works
 Built in IBM watsonx.ai Prompt Lab: Uses prompt templates to define bot personality and answer style.
